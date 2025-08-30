@@ -2,7 +2,7 @@
 
 <img width="739" height="548" alt="Image" src="https://github.com/user-attachments/assets/cd234441-7132-4f57-a615-94be0c835b02" />
 
-this is a java game I made from inspiration of a youtube video, essentially this gamee is a "treasure hunt" where the player aka dwarf runs around this world and finds mushrooms to unlock door by door leading to a magical ending.. this project covers all methods
+this is a 2D java game I made from inspiration of a youtube video, essentially this gamee is a "treasure hunt" where the player aka dwarf runs around this world and finds mushrooms to unlock door by door leading to a magical ending.. this project covers all methods
 within Java for a beginner like me I learned how to create the window, the engine, the graphics and the gameplay loop.. 
 
 This game has 3 "mushrooms" that the player has to pickup to unlock each door in this gameplay loop, this leads to the end. And players can speedrun the game if they want to.
