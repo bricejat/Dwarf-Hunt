@@ -15,3 +15,6 @@ a classic NES soundtrack that is way too big to be uploaded to github but just k
 I got this inspiration to create this project from a youtuber named "RyiSnow" who did a in-depth tutorial of step by step creation of your own video game engine that you have control of. Every aspect is created by yourself which inspired me 
 to start coding in the Java langauge. Thank you to him.
 
+# Code Time
+
+This project took me 31 hours to code because I am a beginner but if you are experienced this could take you 3-4 hours if youre a Java Expert. 
